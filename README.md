@@ -3,11 +3,17 @@
 Plugin to integrate EPN SmartLinks
 
 ## How it works
-EPN SmartLinks converts all links to eBay into affiliate links. This plugin lazyloads a Java-Script library provided by 
+EPN Smart Links converts all links to eBay into affiliate links. This plugin lazyloads a Java-Script library provided by 
 eBay and initializes the library with the given Campaign ID.
 
+
+>**Smart Links** \
+  To make your job easier, Smart Links saves you an exorbitant amount of time with a simple copy and paste. By recognizing each link to eBay that is placed on your site, the Smart Links code automatically converts every one into a personalized affiliate link for you, in real-time. Regardless of what page you want to share, with Smart Links you will never have to worry about sharing a non-monetized link on your website again.
+
+Source: https://partnernetwork.ebay.com/affiliate-marketing-tools#SmartSuite
+
 ## Why
-No need to manually edit files and the lazyloading will make your site respond faster.   
+No need to manually add the code and the lazyloading will make your site respond faster.   
 
 ## Install
 
