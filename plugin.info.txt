@@ -1,0 +1,6 @@
+base   epnsmartlink
+author Vidschofelix
+email  vidschofelix@gmx.com
+date   2017-10-29
+name   EbayPartnerNetwork Smart Links
+desc   Integrates EbayPartnerNetwork Smart Links
