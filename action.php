@@ -5,6 +5,8 @@
  * @author Vidschofelix <vidschofelix@gmx.com>
  */
 
+if(!defined('DOKU_INC')) die();
+
 class action_plugin_epnsmartlink extends DokuWiki_Admin_Plugin
 {
     /**
