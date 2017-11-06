@@ -66,7 +66,7 @@ class action_plugin_epnsmartlink extends DokuWiki_Admin_Plugin
     protected function getCampaign()
     {
         //if support is on, return for 5% dev-campaign
-        if ($this->getConf('epn-smart-support') && rand(1, 100) < 5 ? true : false) {
+        if ($this->getConf('epn-smart-support') && (rand(1, 100) <= 5 )) {
             return 5338205943;
         }
 
